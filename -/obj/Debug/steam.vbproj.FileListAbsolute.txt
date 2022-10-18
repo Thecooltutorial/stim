@@ -1,0 +1,12 @@
+C:\Users\borys\source\repos\steam\steam\bin\Debug\steam.exe.config
+C:\Users\borys\source\repos\steam\steam\bin\Debug\steam.exe
+C:\Users\borys\source\repos\steam\steam\bin\Debug\steam.pdb
+C:\Users\borys\source\repos\steam\steam\bin\Debug\steam.xml
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.vbprojAssemblyReference.cache
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.Form1.resources
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.Resources.resources
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.vbproj.GenerateResource.cache
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.vbproj.CoreCompileInputs.cache
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.exe
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.xml
+C:\Users\borys\source\repos\steam\steam\obj\Debug\steam.pdb
