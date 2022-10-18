@@ -1,0 +1,3 @@
+GameTitle("Half-Life 2")
+           HasGame.HalfLife2(noinfo)
+      HalfLife1.HasGame(noinfo)

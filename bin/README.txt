@@ -1,0 +1,2 @@
+Do NOT delete anything here. You will break stim.
+If you still wanna delete stuff delete old, it isnt used anymore. If you didint get this from https://github.com/Thecooltutorial/stim DELETE IT. IT IS MALLICIOUS AND COULD HARM YOUR COMPUTER. if its a mod you can use it.
